@@ -6,7 +6,7 @@ This repository contains code for creating multiple chatbots using the OpenAI AP
 
 ## Description
 
-The purpose of this project is to demonstrate how to create chatbots using the OpenAI API key. It includes examples and tutorials for building different types of chatbots, such as question-answering bots, conversation bots, and more.
+The purpose of this project is to demonstrate how to create chatbots using the OpenAI API key. It includes examples and tutorials for building different types of chatbots, such as question-answering bots, conversation bots, and more by changing the prompt template.
 
 ## Installation
 
